@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Next Developer.md",
+                "file": "Github Commits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Next Developer"
+              "title": "Sumário de Github Commits"
             }
           },
           {
@@ -210,9 +210,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1d082f1f165a346",
+  "active": "0a055f7049839785",
   "lastOpenFiles": [
-    "Bem-vindo.md",
-    "Next Developer.md"
+    "Next Developer.md",
+    "project_regulamento_exl.md",
+    "exl_projetos.md",
+    "exl_regras_negocio.md",
+    "supabase-backend-expert.md",
+    "01_Skills/nextjs-fullstack-developer.md",
+    "01_Skills",
+    "nextjs-fullstack-developer.md",
+    "git-commit-formatter.md",
+    "vercel-infrastructure-manager.md",
+    "Aplicativos aplicados.md",
+    "Bem-vindo.md"
   ]
 }
